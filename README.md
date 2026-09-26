@@ -13,4 +13,3 @@
 ## 🎯 <img src="./assets/headings/interest.svg" alt="Interest" height="20">
 
 <img src="./assets/badges/mcu.svg" alt="MCU" height="22"> <img src="./assets/badges/linux.svg" alt="Linux" height="22"> <img src="./assets/badges/llm.svg" alt="LLM" height="22"> <img src="./assets/badges/fpga.svg" alt="FPGA" height="22"> <img src="./assets/badges/eda.svg" alt="EDA" height="22">
-# Ellpx007
